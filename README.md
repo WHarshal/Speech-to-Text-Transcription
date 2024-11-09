@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project provides a complete end-to-end workflow within a single Jupyter Notebook, allowing users to transcribe Hindi audio files into text, translate the text into English, and perform sentiment analysis on the translated text. It is designed with simplicity and ease of experimentation in mind.
+This project provides a complete end-to-end workflow within a Jupyter Notebook, allowing users to transcribe Hindi audio files into text, translate the text into English, and perform sentiment analysis on the translated text. It is designed with simplicity and ease of experimentation in mind.
 
 ## Features
 
